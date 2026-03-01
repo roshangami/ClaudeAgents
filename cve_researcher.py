@@ -1,11 +1,9 @@
 """
-Project 4: CVE Researcher Agent
+CVE Researcher Agent
 ----------------------------------
 Give it a technology/library name and it searches the web for
 recent CVEs, explains them, and tells you if your version is affected.
-
-NEW CONCEPT: WebSearch tool — agent can now browse the internet in real time!
-             This is what makes agents truly powerful for security research.
+WebSearch tool 
 
 Setup:
   pip install claude-agent-sdk
